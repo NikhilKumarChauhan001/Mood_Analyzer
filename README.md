@@ -9,11 +9,11 @@ MOOD ANALYZER helps to understand human mental state better by RECOGNITION via F
 helps in eliminating any negative state of mind that might have adverse effect on his/her daily life by providing SOLUTIONS.
 
 Technologies used :
-1 Microsoft Azure
-2 IBM Watson
-3 My SQL
-4 jdk 10 (maven project)
-5 NetBeans IDE
-6 Google Cloud Service
+1 Microsoft Azure  
+2 IBM Watson  
+3 My SQL  
+4 jdk 10 (maven project)  
+5 NetBeans IDE  
+6 Google Cloud Service  
 
 * Photos taken from google images
