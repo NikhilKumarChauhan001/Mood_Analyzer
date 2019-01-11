@@ -8,7 +8,7 @@ A person’s emotions and moods have direct bearings on his/her daily activities
 MOOD ANALYZER helps to understand human mental state better by RECOGNITION via FACIAL EXPRESSION n Text ,
 helps in eliminating any negative state of mind that might have adverse effect on his/her daily life by providing SOLUTIONS.
 
-Technologies used :
+Technologies used :  
 1 Microsoft Azure  
 2 IBM Watson  
 3 My SQL  
