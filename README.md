@@ -1,7 +1,6 @@
 # Mood_Analyzer
 A project built for analyzing the mood of a person .
                          
-                       MOOD ANALYZER
 Research has shown that social networking activity is a good source to gauge a person’s state of mind. 
 Mood of a user is often reflected in his/her social content, like tweets, blogs, article, status updates, etc. 
 Timely analysis of a user’s social media can be used to improve the feelings, and even save a person’s life in an extreme case!
